@@ -1,3 +1,6 @@
+# Specific file exclude
+NER_Healthcare_Data.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
