@@ -1,5 +1,7 @@
 # Specific file exclude
 NER_Healthcare_Data.ipynb
+syntactic-processing *.ipynb
+syntactic-processing-*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
