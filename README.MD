@@ -1,4 +1,3 @@
-```markdown
 # upGrad-syntactic-processing-assignment
 
 ## Overview
@@ -92,4 +91,3 @@ For any questions or collaboration opportunities, feel free to reach out via Git
 
 ## License
 This project is for educational purposes and is part of the upGrad NLP assignment. Contributions are welcome!
-```
