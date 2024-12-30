@@ -1,1 +1,0 @@
-# upGrad-syntactic-processing-assignment
