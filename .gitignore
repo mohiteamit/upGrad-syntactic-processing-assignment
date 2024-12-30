@@ -1,4 +1,5 @@
 # Specific file exclude
+Assignment.ipynb
 restart.txt
 test.ipynb
 NER_Healthcare_Data.ipynb
