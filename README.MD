@@ -1,4 +1,4 @@
-# upGrad-syntactic-processing-assignment
+# upGrad Syntactic Processing Assignment
 
 ## Overview
 This repository contains the implementation of a custom Named Entity Recognition (NER) model to extract disease-treatment pairs from tokenized sentences and their corresponding predicted labels. The project is a part of an NLP-focused assignment for syntactic processing and demonstrates the ability to identify meaningful relationships between entities in medical text.
