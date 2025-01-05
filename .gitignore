@@ -1,14 +1,9 @@
-# Specific file exclude
-Assignment_Syntactic_Processing.ipynb
-Assignment_ref.ipynb
-Assignment.ipynb
-restart.txt
-test.ipynb
-NER_Healthcare_Data.ipynb
-syntactic-processing *.ipynb
-syntactic-processing-*.ipynb
-
+# Include
 !syntactic-processing-Amit_Mohite.ipynb
+
+# Specific file exclude
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
