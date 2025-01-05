@@ -36,14 +36,19 @@ The project pipeline consists of the following key steps:
   - **Entity Merging**: Combines multi-word entities dynamically (e.g., "hereditary retinoblastoma").
   - **Validation**: Applies strict rules to validate entities, excluding noise and generic terms.
 
-### 3. **Post-Processing**
+### 3. Model performance
+
+![Model metrics](image.png)
+
+### 4. **Post-Processing**
 - Treatments are deduplicated and validated to ensure relevance.
 - Disease names are refined to reduce noise and focus on meaningful terms.
 
-### 4. **Final Output**
+### 5. **Final Output**
 - A dictionary where:
   - Keys are diseases (with descriptors).
   - Values are lists of associated treatments.
+  
 
 ---
 
