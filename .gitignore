@@ -8,6 +8,7 @@ NER_Healthcare_Data.ipynb
 syntactic-processing *.ipynb
 syntactic-processing-*.ipynb
 
+!syntactic-processing-Amit_Mohite.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
